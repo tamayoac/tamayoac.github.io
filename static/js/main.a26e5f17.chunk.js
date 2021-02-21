@@ -1,0 +1,2 @@
+(this["webpackJsonptamayoac.githuhb.io"]=this["webpackJsonptamayoac.githuhb.io"]||[]).push([[0],{11:function(t,e,c){"use strict";c.r(e);var n=c(1),i=c.n(n),a=c(3),o=c.n(a),r=(c(8),c(9),c(0));var s=function(){return Object(r.jsx)("div",{className:"App",children:Object(r.jsx)("h1",{children:"Alfred"})})};o.a.render(Object(r.jsx)(i.a.StrictMode,{children:Object(r.jsx)(s,{})}),document.getElementById("root"))},8:function(t,e,c){},9:function(t,e,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.a26e5f17.chunk.js.map
