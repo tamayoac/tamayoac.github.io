@@ -5,7 +5,8 @@ module.exports = {
     extend: {
       colors: {
         olive: '#85837B',
-        trueWhite: '#F5F6F2'
+        trueWhite: '#F5F6F2',
+        trueGrey: '#363636'
       }
     },
   },
