@@ -20,7 +20,7 @@ class Intro extends Component {
                 <div className="absolute w-full">
                     <div className="max-w-screen-xl mx-auto">
                         <div className="flex lg:flex-row flex-col-reverse lg:my-56 my-20">
-                            <div className="flex flex-wrap justify-center items-center lg:w-1/2 w-full lg:pt-0 pt-10 pl-12">
+                            <div className="flex flex-wrap justify-center items-center lg:w-1/2 w-full lg:pt-0 pt-10 lg:pl-12 pl-0">
                                 <div className="flex flex-col lg:pr-10 pr-0 w-full">
                                     <div className="flex lg:justify-start justify-center lg:text-6xl font-bold text-4xl text-gray-400">
                                     Alfred Tamayo
@@ -39,7 +39,7 @@ class Intro extends Component {
                                         <LocationOnIcon className="text-red-400 mr-2" />Davao City, Davao Del Sur, 8000
                                     </p>
                                 </div>
-                                <div className="flex flex-row w-full pt-6">
+                                <div className="flex flex-row w-full justify-center lg:justify-start pt-6">
                                 
                                     <a className="pr-2 " href="https://linkedin.com/in/alfred-christopher-tamayo-53522a166" target="_blank" >
                                         <LinkedInIcon style={styles.smallIcon} className="text-blue-500"/>
@@ -53,7 +53,7 @@ class Intro extends Component {
                                 </div>
                             </div>
                         
-                            <div className="flex justify-center items-center pr-12   lg:w-1/2 w-full">
+                            <div className="flex justify-center items-center lg:pr-12 pr-0 lg:w-1/2 w-full">
                                 <img src="/images/me.png" className="rounded-full lg:w-72 lg:h-72 w-40 h-40" />    
                             </div>
                         </div>
