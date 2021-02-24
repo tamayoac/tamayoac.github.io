@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tamayoac.github.io/static/css/main.0014278f.chunk.css",
-    "main.js": "/tamayoac.github.io/static/js/main.70a87384.chunk.js",
-    "main.js.map": "/tamayoac.github.io/static/js/main.70a87384.chunk.js.map",
+    "main.css": "/tamayoac.github.io/static/css/main.b63be316.chunk.css",
+    "main.js": "/tamayoac.github.io/static/js/main.9a09b345.chunk.js",
+    "main.js.map": "/tamayoac.github.io/static/js/main.9a09b345.chunk.js.map",
     "runtime-main.js": "/tamayoac.github.io/static/js/runtime-main.4d635f6a.js",
     "runtime-main.js.map": "/tamayoac.github.io/static/js/runtime-main.4d635f6a.js.map",
     "static/js/2.c86e9028.chunk.js": "/tamayoac.github.io/static/js/2.c86e9028.chunk.js",
     "static/js/2.c86e9028.chunk.js.map": "/tamayoac.github.io/static/js/2.c86e9028.chunk.js.map",
     "index.html": "/tamayoac.github.io/index.html",
-    "static/css/main.0014278f.chunk.css.map": "/tamayoac.github.io/static/css/main.0014278f.chunk.css.map",
+    "static/css/main.b63be316.chunk.css.map": "/tamayoac.github.io/static/css/main.b63be316.chunk.css.map",
     "static/js/2.c86e9028.chunk.js.LICENSE.txt": "/tamayoac.github.io/static/js/2.c86e9028.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4d635f6a.js",
     "static/js/2.c86e9028.chunk.js",
-    "static/css/main.0014278f.chunk.css",
-    "static/js/main.70a87384.chunk.js"
+    "static/css/main.b63be316.chunk.css",
+    "static/js/main.9a09b345.chunk.js"
   ]
 }
