@@ -1,7 +1,7 @@
 export const work = [
     {
-        company: 'NextBPO Solutions',
-        site: 'https://www.nextbposolutions.com/',
+        company: 'DXC Technology',
+        site: 'https://dxc.com/ph/en',
         date: '2016 - 2018',
         isPresent: false,
         position: 'Application Service Delivery Consultant',
@@ -13,10 +13,10 @@ export const work = [
                 description: 'Collaborate with functional consultant team members to properly manage customer change and escalate when appropriate.'
             },
             {
-                description: 'Gather the required information necessary in order to best handle customer request'
+                description: 'Meet the required information necessary in order to best handle customer request'
             },
             {
-                description: 'Own customer technical issues from initial report to resolution, communicating with customers regularly regarding issue status.'
+                description: 'Resolve customer technical issues from initial report to resolution, communicating with customers regularly regarding issue status.'
             },
             {
                 description: 'Document solutions for knowledge-base and bring new ideas for innovation and automation excellence into the team'
@@ -24,8 +24,8 @@ export const work = [
         ],
     },
     {
-        company: 'NextBPO Solutions',
-        site: 'https://www.nextbposolutions.com/',
+        company: 'DXC Technology',
+        site: 'https://dxc.com/ph/en',
         date: '2018 - 2019',
         isPresent: false,
         position: 'Test System Manager and Transport Governance Manager',
@@ -64,7 +64,7 @@ export const work = [
         site: 'https://www.accenture.com/ph-en',
         date: '2021 - 2022',
         isPresent: false,
-        position: 'Advanced App Engineering Developer',
+        position: 'Advanced Software Engineer',
         task:   
             [
                 {
@@ -93,7 +93,7 @@ export const work = [
         site: 'https://www.accenture.com/ph-en',
         date: '2022 - Present',
         isPresent: true,
-        position: 'Senior Advanced App Engineering Developer',
+        position: 'Senior Software Engineer',
         task: [
             {
                 description:'Project Technical Lead of 2 Associate Developers.'
