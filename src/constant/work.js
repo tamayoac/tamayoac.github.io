@@ -96,7 +96,7 @@ export const work = [
         position: 'Senior Advanced App Engineering Developer',
         task: [
             {
-                description:'Project Technical Lead of 2 Asscoiate Developers.'
+                description:'Project Technical Lead of 2 Associate Developers.'
             },
             {
                 description: 'Create, Maintain API Web Services with Nodejs.'

@@ -7,7 +7,6 @@
       <div class="flex flex-wrap py-6">
         <div
           class="
-            lg:w-3/5
             w-full
             text-default text-justify
             lg:text-xl
@@ -21,7 +20,7 @@
           teams in different software development stages, ensuring a
           high-quality and fulfillment of business market needs.
         </div>
-        <div class="lg:w-2/5 w-full mt-4">
+        <!-- <div class="lg:w-2/5 w-full mt-4">
           <div class="flex items-center h-full justify-center">
             <div
               class="
@@ -54,7 +53,7 @@
               "
             ></div>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="flex flex-wrap w-full lg:py-10 py-2">
         <div
@@ -72,8 +71,8 @@
         <div
           class="
             grid
-            xl:grid-cols-6
-            lg:grid-cols-6
+            xl:grid-cols-5
+            lg:grid-cols-5
             md:grid-cols-3
             sm:grid-cols-3
             xs:grid-cols-2
@@ -93,12 +92,12 @@
               >Vuejs</label
             >
           </div>
-          <div class="flex flex-col justify-center items-center">
+          <!-- <div class="flex flex-col justify-center items-center">
             <img src="../assets/reactjs.png" class="w-16 h-14" />
             <label class="font-bold text-center text-reactjs w-full mt-8"
               >React</label
             >
-          </div>
+          </div> -->
           <div class="flex flex-col justify-center items-center">
             <img src="../assets/mysql.png" class="w-16 h-16" />
             <label class="font-bold text-center w-full mt-6">
@@ -117,6 +116,30 @@
             <img src="../assets/jquery.png" class="w-16 h-16" />
             <label class="font-bold text-center text-jQuery w-full mt-6"
               >jQuery</label
+            >
+          </div>
+          <div class="flex flex-col justify-center items-center">
+            <img src="../assets/dotnet.png" class="w-16 h-16" />
+            <label class="font-bold text-center text-jQuery w-full mt-6"
+              >.NET</label
+            >
+          </div>
+          <div class="flex flex-col justify-center items-center">
+            <img src="../assets/nodejs.png" class="w-16 h-16" />
+            <label class="font-bold text-center text-jQuery w-full mt-6"
+              >node.js</label
+            >
+          </div>
+          <div class="flex flex-col justify-center items-center">
+            <img src="../assets/azure.png" class="w-16 h-16" />
+            <label class="font-bold text-center text-jQuery w-full mt-6"
+              >Microsoft Azure</label
+            >
+          </div>
+          <div class="flex flex-col justify-center items-center">
+            <img src="../assets/angular.png" class="w-16 h-16" />
+            <label class="font-bold text-center text-jQuery w-full mt-6"
+              >Angular</label
             >
           </div>
         </div>

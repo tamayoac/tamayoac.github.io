@@ -21,8 +21,8 @@
         <router-link
           class="
             btn3
-            px-4
-            py-3
+            px-2
+            py-1
             bg-graphite
             border
             rounded-md
@@ -33,7 +33,7 @@
         >
           Get In Touch
         </router-link>
-        <a href="https://github.com/tamayoac" target="_blank" class="ml-3"
+        <a href="https://github.com/tamayoac" target="_blank" class="ml-3 btn3"
           ><font-awesome-icon
             icon="fa-brands fa-github-square"
             size="2xl"
@@ -42,7 +42,7 @@
         <a
           href="https://www.linkedin.com/in/alfred-christopher-tamayo-iii-53522a166"
           target="_blank"
-          class="ml-3"
+          class="ml-3 btn3"
           ><font-awesome-icon
             icon="fa-brands fa-linkedin"
             size="2xl"
